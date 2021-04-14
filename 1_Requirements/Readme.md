@@ -41,7 +41,7 @@ The system is designed for a user friendly environment so that student and staff
 
 ## Defining Our System
 
-![Description](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/system.png)
+![Description]()
 
 
 ### Explanation:
@@ -83,6 +83,6 @@ The system is designed for a user friendly environment so that student and staff
 
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/swot.png)
+![SWOT Analysis]()
 
 
